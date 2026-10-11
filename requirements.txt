@@ -11,3 +11,4 @@ numpy
 matplotlib
 statsmodels
 pyarrow
+gspread
